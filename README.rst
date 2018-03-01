@@ -12,4 +12,4 @@ Requirements
 License
 -------
 
-The MIT License. See `LICENSE <https://github.com/natej/pdbbasics/blob/master/LICENSE>`_.
+The MIT License. See `LICENSE <https://github.com/natej/pdb-basics/blob/master/LICENSE>`_.
