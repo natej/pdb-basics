@@ -1,8 +1,8 @@
-Python PDB Basics Tutorial
+Python pdb Basics Tutorial
 ==========================
 
-This is the source code for a PDB tutorial I wrote for Real Python:
-`Python PDB Basics <https://realpython.com/blog/>`_.
+This is the source code for a pdb tutorial I wrote for Real Python:
+`Python pdb Basics Tutorial <https://realpython.com/blog/>`_.
 
 Requirements
 ------------
