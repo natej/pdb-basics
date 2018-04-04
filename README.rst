@@ -1,5 +1,5 @@
-Python pdb Basics Tutorial
-==========================
+Python Debugging with pdb
+=========================
 
 This is the source code for a pdb tutorial I wrote for Real Python:
 `Python Debugging with pdb <https://realpython.com/python-debugging-pdb/>`_.
