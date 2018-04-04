@@ -8,7 +8,7 @@ def get_path(fname):
     import pdb; pdb.set_trace()
     head, tail = os.path.split(fname)
     for char in tail:
-        pass  # check filename char
+        pass  # Check filename char
     return head
 
 
