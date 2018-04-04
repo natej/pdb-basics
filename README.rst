@@ -2,12 +2,12 @@ Python pdb Basics Tutorial
 ==========================
 
 This is the source code for a pdb tutorial I wrote for Real Python:
-`Python pdb Basics Tutorial <https://realpython.com/blog/>`_.
+`Python Debugging with pdb <https://realpython.com/python-debugging-pdb/>`_.
 
 Requirements
 ------------
 
-- `Python <https://www.python.org/>`_ 3.6.
+- `Python <https://www.python.org/>`_ 3.6 or later.
 
 License
 -------
